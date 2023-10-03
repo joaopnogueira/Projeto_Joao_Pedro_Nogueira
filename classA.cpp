@@ -13,6 +13,10 @@ public:
 		A2 = 0;
 	}
 
+	int getSoma(int a, int b){
+		return a+b;
+	}
+
 	int get_A1() {
 		return A1;
 	}
