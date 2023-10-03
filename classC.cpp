@@ -36,4 +36,8 @@ public:
 	void MC2() {
 		cout << "Método MC2 da classe C" << endl;
 	}
+
+	void MC3() {
+		cout << "Método MC3 da classe C" << endl;
+	}
 };
