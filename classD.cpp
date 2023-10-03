@@ -37,7 +37,14 @@ public:
 		cout << "Método MD2 da classe D" << endl;
 	}
 
+<<<<<<< HEAD
 	void MD3() {
 		cout << "Método MD3 da classe D" << endl;
 	}
 };
+=======
+	void MD4() {
+		cout << "Método MD4 da classe D" << endl;
+	}
+};
+>>>>>>> 6f0802cdc24dda16ff5a31aef1813479267e9435
