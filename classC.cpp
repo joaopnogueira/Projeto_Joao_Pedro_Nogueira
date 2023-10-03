@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class A {
+class C {
 private:
 	string C1;
 	int C2;
@@ -13,7 +13,7 @@ public:
 		C2 = 0;
 	}
 
-	int get_C1() {
+	string get_C1() {
 		return C1;
 	}
 
